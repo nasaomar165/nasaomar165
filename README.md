@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">A passionate Full Stack developer from Egypt</h3>
 
-- 🌱 I’m currently learning **Mern Stack , GraphQL , Flutter**
+- 🌱 I’m currently learning ** Nextjs , Mern Stack , Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nasaomar165](https://github.com/nasaomar165)
 
